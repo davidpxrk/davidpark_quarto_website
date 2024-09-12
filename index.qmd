@@ -1,11 +1,29 @@
 ---
-title: "David Park's website"
+title: "David Park"
 ---
 
-This is David Park's website
 
-testing testing testing
+Hi there! I'm **David Park**, a **UX/UI Designer** and a **Graphics Designer** studying Economics and Statistics at the University of Toronto.
 
-```{r}
-1 + 12
-```
+# About Me
+
+I'm a 4th year student studying Economics and Statistics at the University of Toronto. In my free time, I'm interested in design, where I make social media brandings for online personalities and businesses.
+
+I have worked with over 100+ online celebrities to bring their branding to life.
+
+* **Education**
+    + University of Toronto (St. George Campus)
+
+
+* **Skills**
+    + **Tools:** Photoshop, After Effects, Illustrator, Figma
+    + **Field of Interest:** Branding Design, Graphic Design, Motion Design, Logos, Animations
+    
+    
+# My Past Work
+
+Interested in checking out some of my previous commissions or design? Check out my Behance profile!
+
+[Behance](https://www.behance.net/strawberrymilk)
+
+   

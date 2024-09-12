@@ -1,8 +1,8 @@
 {
-  "hash": "de6d4757f05b1c4fd603e4990f227ced",
+  "hash": "2b239f2af874afd4d7ce987657fac874",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"David Park's website\"\n---\n\n\n\n\nThis is David Park's website\n\ntesting testing testing\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 12\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 13\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"David Park's website\"\n---\n\n\n\n\nDavid Park\n\n\nHi there! I'm **David Park**, a UX/UI Designer studying Economics and Statistics at the University of Toronto. I make clean designs for websites, apps and even online events.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 12\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 13\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
